@@ -175,11 +175,11 @@ intents = [
 
 ## 🔮 Future Improvements
 
-- [ ] Integrate OpenAI / Gemini API for smarter AI responses
-- [ ] Add `tkinter` GUI for a desktop chat window
+- [ ] Integrate a free AI API for smarter AI responses
+- [ ] Add GUI using Python `tkinter` for a desktop chat window
 - [ ] Build a web interface using Django
 - [ ] Add memory — remember user name across sessions
-- [ ] Train a simple ML model using `scikit-learn` for better intent detection
+- [ ] Learn and apply basic ML for better intent detection (future goal)
 - [ ] Deploy as a web chatbot using Django + WebSockets
 
 ---
