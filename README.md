@@ -25,7 +25,7 @@ Bot  > Django is a powerful Python web framework that follows the
        MVT (Model-View-Template) pattern. It helps build web apps fast!
 
 You  > Thanks, bye!
-Bot  > Goodbye! Have a great day. Feel free to come back anytime!
+Bot  > Goodbye! Have a great day. Feel free to come back anytime and best offer!
 ```
 
 ---
