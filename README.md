@@ -35,10 +35,10 @@ Bot  > Goodbye! Have a great day. Feel free to come back anytime and best offer!
 A **Python-based conversational chatbot** that handles multi-turn conversations using keyword detection and rule-based flow logic. Unlike single-response bots, this chatbot maintains conversation context and responds naturally across multiple exchanges.
 
 **Key Highlights:**
-- Multi-turn conversation support — remembers context within a session
-- Natural language input parsing with keyword-based intent detection
-- Covers topics like programming, general knowledge, greetings, and small talk
-- Lightweight — no external ML model required, pure Python
+- Multi-turn conversation support — remembers context within a session.
+- Natural language input parsing with keyword-based intent detection.
+- Covers topics like programming, general knowledge, greetings, and small talk.
+- Lightweight — no external ML model required, pure Python.
 
 ---
 
